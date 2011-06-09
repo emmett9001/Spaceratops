@@ -1,0 +1,10 @@
+Neo 50000
+Trinity 45000
+Morpheus 40000
+Agent Smith 35000
+Oracle 30000
+Cypher 25000
+Tank 20000
+Apoc 15000
+Mouse 10000
+Switch 5000

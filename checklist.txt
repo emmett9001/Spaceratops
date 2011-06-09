@@ -1,0 +1,51 @@
+Space Game Checklist
+
+TO DO:
+playtest
+
+DONE:
+//double buffering for applet
+//LESS HOMING MISSILES....SERIOUSLY IT's ENOUGH ALREADY
+//put two songs at least in
+//fix homing behavior
+//animate intro screens
+//intro music for two start screens
+//finish music composition/recording
+//BOMB/player homing missiles
+//major slowdown after three new games
+//fix repetition issues with player homers
+//save bigger enemies for later waves
+//dispose of old game window when "new game" is selected
+//fix collision detection for big enemies
+//a big tall image to scroll through for instructions (maybe a repetitive background and then text on transparency overlaid)
+//design level object
+//don't let ship move around outside frame
+//animate laser launches
+//design backgrounds
+//Scrolling Background
+//Homing enemy lasers
+//design two more laser levels
+//display enemy health as a decreasing bar
+//display the health of currently shot enemy
+//show enemy health one at a time, only when enemy is shot
+//don't let enemies fly through player ship
+//determine enemy movement patterns
+//issues with player life indicator are probably caused when the ship receives
+    damage twice in a single frame - eliminate this possibility?
+//fix color argument discrepancy on laserMessage text object
+//have level message appear and fade at the beginning of each level
+//text prompt: LASERS UPGRADED!
+//animate tail wags
+//make powerups drop separately
+//STOP PLAYER LASERS FROM FLYING OUTSIDE OF FRAME
+//animate laser impacts
+//combine partial wide turns to create movement patterns
+//animate laser flights
+//animate powerups
+//fix life bar glitchiness
+
+
+So Dinosaurs live on the moon. and NASA is trying to keep that a secret from the people of earth
+a rogue dinosaur scientist (you) embarks on a mission to make it to earth from the moon
+    and tell the people about how dinosaurs are on the moon
+and NASA is trying to stop you
